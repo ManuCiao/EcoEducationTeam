@@ -1,7 +1,7 @@
 # EET - EcoEducationTeam  
 (working in progress)
 
-Teaching Ecology in schools..
+Teaching Ecology in schools.. 
 
 ## Getting Started
 
